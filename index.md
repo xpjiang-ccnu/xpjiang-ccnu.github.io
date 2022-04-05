@@ -6,14 +6,14 @@
 
 
 ## Positions
-### 1.Professor, School of Computer, Central China Normal University, China, 2015-present
-### 2.Postdoc  Scientist,College of Computing and Informatics, Drexel University, US, 2012-2015
-### 3.Postdoc Associate, Department of Biology, McMaster University, Canada, 2009-2012
+### Professor, School of Computer, Central China Normal University, China, 2015-present
+### Postdoc  Scientist,College of Computing and Informatics, Drexel University, US, 2012-2015
+### Postdoc Associate, Department of Biology, McMaster University, Canada, 2009-2012
 
 ## Educations
-### 1. Ph.D., Institute of Automation,  China Academy of Sciences, 2005-2009
-### 2.Master, School of Applied Science, Beijing University of Technology, 2001-2004,
-### 3.Bachelor, School of Mathematics &Statistics, Qufu Normal University, 1997-2001 
+### Ph.D., Institute of Automation,  China Academy of Sciences, 2005-2009
+### Master, School of Applied Science, Beijing University of Technology, 2001-2004,
+### Bachelor, School of Mathematics &Statistics, Qufu Normal University, 1997-2001 
 
 ## Grants and Honours
 ### 1.“Chutian Young Scholar” Talent Program in Hubei Province, China, 2015-2019 (250,000 RMB)
