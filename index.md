@@ -31,6 +31,7 @@
 ### 8.Guest Editorial for Special Section on BIBM. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2013
 
 ## Selected Publications
+### Sun H, Huang X, Huo B, Tan Y,  He T, Jiang X*. Detecting sparse microbial association signals adaptively from longitudinal microbiome data based on generalized estimating equations. Briefs in Bioinformatics. 2022(Accepted, DOI: 10.1093/bib/bbac149)
 ### Sun H, Huang X, Fu L, Huo B, He T, Jiang X*. A powerful adaptive microbiome-based association test for microbial association signals with diverse sparsity levels. Journal of Genetics and Genomics. 2021;48(9):851-9
 ### Zhu Q, Li B, He T, Li G, Jiang X*: Robust biomarker discovery for microbiome-wide association studies. Methods 2020, 173:44-51. (SCI)
 ### Zhu Q, Huo B, Sun H, Li B, Jiang X*: Application of Deep Learning in Microbiome. Journal of Artificial Intelligence for Medical Sciences 2020, 1(1-2):23-29. (Invited Review)
