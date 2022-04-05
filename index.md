@@ -16,9 +16,9 @@
 ### Bachelor, School of Mathematics &Statistics, Qufu Normal University, 1997-2001 
 
 ## Grants and Honours
-### 1.“Chutian Young Scholar” Talent Program in Hubei Province, China, 2015-2019 (250,000 RMB)
-### 2.co-PI, Pattern extraction and analysis from high-throughput microbiome data, key program of National Science Funding of China (61532008), 2016-2020 (2900,000 RMB)
-### 3.PI,  Computational prediction of high-order microbial interaction from multi-omics data, general program of National Science Funding of China, 2019-2022 (600,000 RMB)
+### 1.“Chutian Young Scholar” Talent Program in Hubei Province, China, 2015-2019 
+### 2.co-PI, Pattern extraction and analysis from high-throughput microbiome data, key program of National Science Funding of China, 2016-2020 
+### 3.PI,  Computational prediction of high-order microbial interaction from multi-omics data, general program of National Science Funding of China, 2019-2022 
 
 ## Academic service
 ### 1.Associate Editor of Journal of Artificial Intelligence for Medical Sciences, since 2021
