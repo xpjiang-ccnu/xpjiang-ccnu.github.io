@@ -28,7 +28,7 @@
 ### 5.Standing Committee Member of Gene Detection Technology Branch of the Chinese Pharmaceutical Biotechnology Association, since 2018
 ### 6.Vice Chair of the Hubei Province Bioinformatics Society, China, since 2018
 ### 7.Editor board of International Journal of Data Mining and Bioinformatics, since 2014.  
-### 8.Guest Editorial for Special Section on BIBM. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2013
+### 8.Guest Editorial for Special Section on BIBM. IEEE/ACM Transactions on Computational Biology and Bioinformatics, BMC Bioinformatics, BMC Genomics, 2013,2019, 2021
 
 ## Selected Publications
 ### Sun H, Huang X, Huo B, Tan Y,  He T, Jiang X*. Detecting sparse microbial association signals adaptively from longitudinal microbiome data based on generalized estimating equations. Briefs in Bioinformatics. 2022(Accepted, DOI: 10.1093/bib/bbac149)
